@@ -4,7 +4,8 @@
 A fun and addictive web game where your goal is to help the ninja cross platforms by correctly measuring and dropping sticks of the right length. Get the perfect hit and boost your score! Built using **HTML**, **CSS**, and **JavaScript**, this game tests both precision and timing.
 
 ## 📸 **Demo**
-![video-demo](video.mp4)  
+![screenshot_1](./public/img1)  
+![screenshot_2](./public/img2)  
 
 ## 🧩 **How to Play**
 
